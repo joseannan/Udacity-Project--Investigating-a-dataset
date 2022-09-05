@@ -1,0 +1,2 @@
+# Udacity-Project--Investigating-a-dataset
+This Project investigates three indicators from  Gapminder. I analyze three indicators from Gapminder. They are income, life expectancy, and child mortality. For my analysis,I have chosen 3 indicators namely;income per person, life expectancy and child mortality. These indicators are in 3 different csv datasets which I will merge to form one dataframe for my analysis.
